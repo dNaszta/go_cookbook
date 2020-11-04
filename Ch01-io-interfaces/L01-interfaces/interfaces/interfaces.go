@@ -1,4 +1,4 @@
-package L01_interfaces
+package interfaces
 
 import (
 	"fmt"

@@ -3,7 +3,7 @@ package example
 import (
 	"bytes"
 	"fmt"
-	"github.com/dNaszta/go_cookbook/Ch01-io-interfaces/L01-interfaces"
+	"github.com/dNaszta/go_cookbook/Ch01-io-interfaces/L01-interfaces/interfaces"
 )
 
 func main()  {
