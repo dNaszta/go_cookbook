@@ -1,0 +1,6 @@
+github.com/dNaszta/go_cookbook/Ch02-command-line/L03-envvar/envvar v0.0.0-20201211133141-1b6397fd0415 h1:qfuLN98el65/o0wWUNGti1M88IeS1wBKzKztA3HqABE=
+github.com/dNaszta/go_cookbook/Ch02-command-line/L03-envvar/envvar v0.0.0-20201211133141-1b6397fd0415/go.mod h1:eGg6GB80nTogBpqy3uxpr9m380hx8VBG/ed+hXiRnwc=
+github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dvMUtDTo2cv8=
+github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
