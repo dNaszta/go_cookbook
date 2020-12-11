@@ -5,4 +5,5 @@ Ch01-io-interfaces/L03-filedirs/example/vendor/
 Ch01-io-interfaces/L04-csvformat/example/vendor/
 Ch01-io-interfaces/L05-tempfiles/example/vendor/
 Ch01-io-interfaces/L06-templates/example/vendor/
-Ch02-command-line/L02-cmdargs/cmdargs/cmdargs   
+Ch02-command-line/L02-cmdargs/cmdargs/cmdargs
+Ch02-command-line/L03-envvar/envvar/vendor/
